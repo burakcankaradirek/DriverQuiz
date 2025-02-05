@@ -23,6 +23,3 @@ This is a simple iOS quiz app built with Swift, using UIKit and AVFoundation. Th
 ### Requirements:
 - Xcode 12 or later
 - iOS 12.0+ or higher
-
-### License:
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
